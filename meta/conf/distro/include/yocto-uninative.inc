@@ -8,7 +8,7 @@
 
 UNINATIVE_MAXGLIBCVERSION = "2.29"
 
-UNINATIVE_URL ?= "http://downloads.yoctoproject.org/releases/uninative/2.4/"
-UNINATIVE_CHECKSUM[aarch64] ?= "af2e2faf6cf00ff45cc1bcd5e3fb00cee7f79b3ec7c3be15917ad4ff8c154cfe"
-UNINATIVE_CHECKSUM[i686] ?= "fafacfc537a6ce2bd122bd16c146881ab5ac69bd575abf6cb68a0dd33fa70ea2"
-UNINATIVE_CHECKSUM[x86_64] ?= "06f91685b782f2ccfedf3070b3ba0fe4a5ba2f0766dad5c9d1642dccf95accd0"
+UNINATIVE_URL ?= "http://downloads.yoctoproject.org/releases/uninative/2.5/"
+UNINATIVE_CHECKSUM[aarch64] ?= "43b3fe10febac293d95a7795775c25987e4a80c65b5fd751e96ca54683791cf4"
+UNINATIVE_CHECKSUM[i686] ?= "240dc9b021ff744a1a27da67a80ce7e390c14d70fed5668c7800a58d7fe829a4"
+UNINATIVE_CHECKSUM[x86_64] ?= "3af47b86059fccdf7253ecdb4e691c7a6abd7b52d086d7cbac2eca03893a6b62"
