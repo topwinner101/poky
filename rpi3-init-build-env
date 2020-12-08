@@ -61,3 +61,5 @@ bitbake-layers add-layer ../meta-openembedded/meta-oe
 bitbake-layers add-layer ../meta-raspberrypi
 
 echo "build image : bitbake rpi3-image"
+
+echo "build kernel: bitbake linux-raspberrypi"
